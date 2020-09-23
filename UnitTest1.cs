@@ -11,5 +11,12 @@ namespace MyFirstUnitTestProject1
             Assert.IsTrue(true);
         }
 
+        [TestMethod]
+        public void AddingNewMyFirstbranchTestTestMethod2()
+        {
+            Assert.IsTrue(true);
+        }
+
+        
     }
 }
