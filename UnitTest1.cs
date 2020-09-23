@@ -11,5 +11,11 @@ namespace MyFirstUnitTestProject1
             Assert.IsTrue(true);
         }
 
+        [TestMethod]
+        public void AddingTestToMaster1()
+        {
+            Assert.IsTrue(true);
+        }
+
     }
 }
