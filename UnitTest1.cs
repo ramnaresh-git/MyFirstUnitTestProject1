@@ -21,8 +21,6 @@ namespace MyFirstUnitTestProject1
         public void AddingNewMyFirstbranchTestTestMethod2()
         {
             Assert.IsTrue(true);
-        }
-
-        
+        }        
     }
 }
