@@ -11,24 +11,5 @@ namespace MyFirstUnitTestProject1
             Assert.IsTrue(true);
         }
 
-
-        [TestMethod]
-        public void TestMethod22()
-        {
-            Assert.IsTrue(true);
-        }
-
-        [TestMethod]
-        public void TestMethod23()
-        {
-            Assert.IsTrue(true);
-        }
-        
-         [TestMethod]
-        public void TestMethod24()
-        {
-            Assert.IsTrue(true);
-        }
-
     }
 }
